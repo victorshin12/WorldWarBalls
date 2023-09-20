@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b0a79047fbb6fb04a8c495d078ea2fa7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - powerupIndicator: {instanceID: 0}
+  - spawnMan: {instanceID: 0}
+  - livesLeftText: {instanceID: 0}
+  - heartText: {instanceID: 0}
+  - rocketExplosionParticle: {instanceID: 0}
+  - playerAudio: {instanceID: 0}
+  - shootSound: {fileID: 8300000, guid: 4aa17616d335d7142b7ab289efcbd544, type: 3}
+  - damagedSound: {fileID: 8300000, guid: 9a73236c6e9d5374c810319febb918aa, type: 3}
+  - explosionSound: {fileID: 8300000, guid: ed3583ddcc45e9a4aa80b463824d0d1f, type: 3}
+  - rocketSound: {fileID: 8300000, guid: 0b0424ec245da7e4d99012e6b69c20dd, type: 3}
+  - terrainSound: {fileID: 8300000, guid: c7298f83e233ded4d947289457668d92, type: 3}
+  - heartSound: {instanceID: 0}
+  - powerupSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
